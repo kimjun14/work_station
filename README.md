@@ -61,5 +61,5 @@
 [네이버](naver.com, "네이버로 이동합니다.")
 
 ## 이미지 넣기
-![자이언트팽TV](./pengsoo.png)(https://www.youtube.com/channel/UCtckgmUcpzqGnzcs7xEqMzQ)
+[![자이언트팽TV](./pengsoo.png)](https://www.youtube.com/channel/UCtckgmUcpzqGnzcs7xEqMzQ)
 
